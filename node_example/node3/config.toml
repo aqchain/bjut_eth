@@ -1,0 +1,10 @@
+[Node]
+DataDir = "node2"
+HTTPHost = "127.0.0.1"
+HTTPPort = 8555
+[Node.P2P]
+ListenAddr = ":30331"
+MaxPeers = 25
+[Eth]
+GasPrice = 1
+
